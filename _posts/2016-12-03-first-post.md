@@ -4,7 +4,6 @@ title:  "First Post!"
 date:   2016-12-03 15:28:46 -0700
 categories: []
 tags: []
-comments: true
 ---
 
 I've been in software development for over a decade now, which is kind of crazy. In addition to that, I've been working at Amazon for over half my career, which has been a unique and exciting experience. Building systems that scale to Amazon's demands tends to really accelerate one's learning, so I can say at this point that I have amassed a ton of experience developing software at scale.

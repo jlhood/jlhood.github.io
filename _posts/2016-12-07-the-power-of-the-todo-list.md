@@ -4,7 +4,6 @@ title:  "The Power of the TODO List"
 date:   2016-12-07 10:20:46 -0700
 categories: []
 tags: ['productivity']
-comments: true
 ---
 
 I wanted to share a simple, yet powerful technique I discovered during my 2nd year as a software engineer, which has served me
