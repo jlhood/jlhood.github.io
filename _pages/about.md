@@ -2,7 +2,10 @@
 layout: single
 title: "About"
 permalink: /about/
+author_profile: true
 comments: false
+header:
+  image: about-header.jpg
 ---
 
 My name is James Hood. I graduated from the University of Arizona with a BS in Computer Engineering and minors in Computer Science and Math. I worked as a software developer for IBM, working on enterprise disk storage servers for the first 6 years of my career. In 2009, I was hired at Amazon and am now a senior software development engineer. I worked in AWS for 3 years, then switched to Amazon fulfillment software.
