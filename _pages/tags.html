@@ -1,26 +1,24 @@
 ---
-layout: single
+layout: archive
 title: Tags
 permalink: /tags/
 excerpt: "An archive of posts sorted by tag."
 author_profile: true
 ---
 
-<ul class="tag-box inline">
-  {% for tag in site.tags %}
-    <li><a href="#{{ tag[0] }}">{{ tag[0] }}</a> <span> ({{ tag[1].size }})</span></li>
+{% include group-by-array collection=site.posts field="tags" %}
+
+<ul>
+  {% for tag in group_names %}
+    {% assign posts = group_items[forloop.index0] %}
+    <li><a href="#{{ tag | slugify }}">{{ tag }}</a> <span> ({{ posts.size }})</span></li>
   {% endfor %}
 </ul>
 
-
-{% for tag in site.tags %}
-  <h2 id="{{ tag[0] }}">{{ tag[0] }}</h2>
-  <ul>
-
-  {% for post in tag[1] %}
-    {% if post.title != null %}
-      <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span>(<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>)</span></a></li>
-    {% endif %}
+{% for tag in group_names %}
+  {% assign posts = group_items[forloop.index0] %}
+  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
+  {% for post in posts %}
+    {% include archive-single.html %}
   {% endfor %}
-  </ul>
 {% endfor %}
