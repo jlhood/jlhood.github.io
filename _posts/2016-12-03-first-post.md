@@ -2,7 +2,6 @@
 layout: single
 title:  "First Post!"
 date:   2016-12-03 15:28:46 -0700
-categories: []
 tags: []
 ---
 

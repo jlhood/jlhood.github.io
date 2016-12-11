@@ -2,7 +2,6 @@
 layout: single
 title:  "The Power of the TODO List"
 date:   2016-12-07 10:20:46 -0700
-categories: []
 tags: ['productivity']
 ---
 
