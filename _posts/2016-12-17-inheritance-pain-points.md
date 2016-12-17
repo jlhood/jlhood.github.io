@@ -78,3 +78,6 @@ unfortunately.
 
 Hopefully this post helps show a real-world example of where inheritance used as an extension point for objects can
 cause some real pain and how composition can address the problem.
+
+Do you have examples where inheritance has caused you similar pain? Think I could have solved it better? Let me know
+in the comments.
