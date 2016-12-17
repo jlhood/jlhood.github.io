@@ -2,6 +2,18 @@
 layout: single
 title:  "Inheritance Pain Points"
 tags: ['OOP','inheritance','composition','anti-patterns']
+excerpt: "I recently read [this excellent DZone article](https://dzone.com/articles/is-inheritance-dead) by Nehme Bilal, 
+detailing why inheritance is a poor choice for extending an object's functionality and how the decorator pattern 
+is superior. Nehme gives an example of how using inheritance for extension in a language that does not support 
+multiple inheritance can cause a combinatorial subclass explosion. This is a decent example, however honestly, in 
+practice, I don't think developers run into this problem often enough to make them stop using inheritance for 
+this purpose. Also, the decorator solution can cause a proliferation of interfaces throughout your code, which 
+can get cumbersome. I think the more general design principle of preferring composition to inheritance serves as 
+better guidance than \"use decorator everywhere.\" 
+
+In this post, I'll bring up a recent, concrete example of where the use of inheritance as an extension point caused 
+real pain and the change I made to address it. This involved replacing the use of inheritance with composition without 
+using the decorator pattern."
 ---
 
 I recently read [this excellent DZone article](https://dzone.com/articles/is-inheritance-dead) by Nehme Bilal,
