@@ -61,9 +61,10 @@ However the principle of Just-in-Time Documentation can still be applied to user
 1. Don't write user documentation until you actually have users! Everyone wants to believe they're writing the next Spring framework, however until you
 actually have users, spend your time making the software work well.
 1. Start with a modest amount of documentation. For most github projects, a well-written README is enough. "Complete" documentation doesn't mean a full
-user manual. It means you put care into the documentation you do write. Scale your documentation appropriately based on the number of users.
-1. Write your documentation for the right audience. Writing documentation for a developer library? A pom.xml, build.gradle and some sample code might be
-all you need.
+user manual. It means you put care into the documentation you do write. Scale your documentation appropriately based on the number of users. Here's a great
+[post](https://dev.to/codemouse92/your-project-isnt-done-yet) detailing how to write a good README.
+1. Write your documentation for the right audience. Writing documentation for a developer library? A pom.xml, build.gradle and some sample code showcasing
+each feature might be all you need.
 
 ## Conclusion
 
