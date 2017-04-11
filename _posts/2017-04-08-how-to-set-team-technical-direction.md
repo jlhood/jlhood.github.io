@@ -68,9 +68,10 @@ long-term vision needs to be tweaked.
 
 Here are some tips that help me when coming up with short-term, incremental plans:
 
-1. Look for milestones that can are achievable within a 3-6 month (or shorter, depending on the size and scope of the project) timeframe. Ideally milestones are customer-facing,
+1. Look for milestones that are achievable within a 3-6 month (or shorter, depending on the size and scope of the project) timeframe. Ideally milestones are customer-facing,
    but don't stretch your milestones out to a year or 2 years just to make them customer-facing. If they're that big, there's probably a scrappier solution that will give you
    the feedback you need.
+1. Be concrete. Unlike your long-term vision, short-term solutions should be well-defined. Choose specific technologies and justify your choices.
 1. Enumerate the key business and/or technical wins of each milestone. This ensures you know why you're doing each one.
 1. Use the long-term vision as your guide post. Your milestones should be in-line with the end goal, although they can veer off track a bit if there are good reasons for it.
    However, avoid lateral or backward movement.
