@@ -52,4 +52,4 @@ to them right?
 I highly recommend teams practice reporting status in this way and hold each other accountable when status is communicated in a way that's unclear or
 misleading. It's actually a pretty easy change to make once you get used to it, and the benefits of increased trust are well worth it.
 
-Ok this blog post is done. :-P
+Ok this blog post is done. 😜
