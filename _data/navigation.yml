@@ -4,5 +4,7 @@ main:
     url: /about/
   - title: "All Posts"
     url: /posts/
+  - title: "Books"
+    url: /books/
   - title: "Tags"
     url: /tags/
