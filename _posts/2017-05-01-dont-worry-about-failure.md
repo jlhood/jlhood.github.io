@@ -4,7 +4,7 @@ title:  "Don't Worry About Failure...Embrace It!"
 tags: ['career','motivation']
 ---
 
-A member of a team I've been mentoring recently confided in me that he had decided it was time to move on and try working on another team. Amazon has a very friendly culture towards tranferring internally between teams, so of course this wasn't a problem. He had identified two potential teams and wanted my help choosing between them.
+A member of a team I've been mentoring recently confided in me that he had decided it was time to move on and try working on another team. Amazon has a very friendly culture towards transferring internally between teams, so of course this wasn't a problem. He had identified two potential teams and wanted my help choosing between them.
 
 Team 1 is in a high-profile area, working on cutting edge technology that is pushing the field forward. It would be challenging and he would have a lot of responsibility and big projects to lead. Team 2 is a team in a well-established space with a more incremental charter. Team 2's manager didn't have a specific big project in mind for him and he would start out with smaller tasks and go from there.
 
@@ -20,7 +20,7 @@ In the end, he decided to go with Team 1. I was happy for him and wished him luc
 
 ---
 
-I think it's so important not to let fear of failure hold you back. One of the most important and rewarding aspects of life is persuing and achieving personal growth in whatever interests you. However this only comes from challenging your limits. When you're forced beyond your comfort zone, you are guaranteed to struggle at times, but that's ok! In fact, it's more than ok. It's a perfectly natural and normal part of learning.
+I think it's so important not to let fear of failure hold you back. One of the most important and rewarding aspects of life is pursuing and achieving personal growth in whatever interests you. However this only comes from challenging your limits. When you're forced beyond your comfort zone, you are guaranteed to struggle at times, but that's ok! In fact, it's more than ok. It's a perfectly natural and normal part of learning.
 
 A long time ago, a coach taught me that there are 4 stages to learning something new:
 
