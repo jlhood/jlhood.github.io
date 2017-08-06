@@ -50,3 +50,4 @@ I'm putting personal development books first, because developers tend to priorit
 ### Other
 
 1. [The Amazon Way](https://www.amazon.com/Amazon-Way-Leadership-Principles-Disruptive/dp/1499296770) - Fast read expanding on Amazon's leadership principles from a former Amazonian. Lots of fun stories from Amazon's early days.
+1. [The Checklist Manifesto](https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000) - I'm a huge fan of checklists as a low-cost way to ensure consistent behavior when required. This book covers why they are so helpful and what elements go into an effective checklist. The author is a surgeon who shares several fascinating (and sometimes unsettling) anecdotes from the medical world, showing how checklists can effectively minimize human error.
