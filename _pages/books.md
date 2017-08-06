@@ -12,7 +12,7 @@ comments: false
 
 ## Recommended Reading
 
-This is a list of books I recommend reading. If this list seems overwhelming, try the marathon strategy I describe in [Tips for New Software Developers](/tips-for-new-software-developers/). Establish a routine of reading for 20-30 minutes a day. What works best for me is to have a set time each day that I read, but there are other strategies as well. If 20-30 minutes is even too intimidating, make [Mini Habits](https://www.amazon.com/Mini-Habits-Smaller-Bigger-Results/dp/1494882272) the first book you read.
+This is a list of books I recommend reading. If this list seems overwhelming, try the marathon strategy I describe in [Tips for New Software Developers](/tips-for-new-software-developers/). Establish a routine of reading for 20-30 minutes a day. What works best for me is to have a set time each day that I read, but there are other strategies as well. If 20-30 minutes seems too intimidating, make [Mini Habits](https://www.amazon.com/Mini-Habits-Smaller-Bigger-Results/dp/1494882272) the first book you read.
 
 ### Personal/Career Development
 
@@ -32,7 +32,7 @@ I'm putting personal development books first, because developers tend to priorit
 
 1. [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) - Essential read for any software developer.
 1. [Code Complete](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) - Excellent book breaking down many nuances in day-to-day code construction.
-1. [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) - Oldie, but a goodie. Another essential foundational book for any developer and manager of developers.
+1. [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) - Oldie, but a goodie. Another essential foundational book for any developer or manager of developers.
 1. [Clean Code](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) - Great book emphasizing coding best-practices.
 1. [The Clean Coder](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/0137081073) - How to be an effective software engineer in industry.
 
