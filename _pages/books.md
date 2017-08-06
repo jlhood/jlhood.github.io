@@ -3,7 +3,7 @@ layout: single
 title: "Books"
 permalink: /books/
 author_profile: true
-comments: false
+comments: true
 ---
 
 ## Currently Reading [![goodreads.com](https://www.goodreads.com/images/widget/widget_logo.gif)](https://www.goodreads.com/){: rel="nofollow"}
@@ -14,13 +14,15 @@ comments: false
 
 This is a list of books I recommend reading. If this list seems overwhelming, try the marathon strategy I describe in [Tips for New Software Developers](/tips-for-new-software-developers/). Establish a routine of reading for 20-30 minutes a day. What works best for me is to have a set time each day that I read, but there are other strategies as well. If 20-30 minutes seems too intimidating, make [Mini Habits](https://www.amazon.com/Mini-Habits-Smaller-Bigger-Results/dp/1494882272) the first book you read.
 
+I've enabled comments on this page so feel free to add your own recommendations!
+
 ### Personal/Career Development
 
 I'm putting personal development books first, because developers tend to prioritize them last. However, I've found that improving yourself as a person makes you a better developer, not to mention more satisfied with your job and life in general.
 
 1. [Crucial Confrontations](https://www.amazon.com/Crucial-Confrontations-Resolving-Promises-Expectations/dp/0071446524) - This book changed the way I think about and handle confrontation. It's helped me immensely in my career and personal life.
 1. [Finding Flow](https://www.amazon.com/Finding-Flow-Psychology-Engagement-Masterminds/dp/0465024114) - Concise, excellent read. The best book I've found explaining "how to feel consistently happy/satisfied in life."
-1. [The Power of Vulnerability](https://www.amazon.com/Power-Vulnerability-Teachings-Authenticity-Connection/dp/B00D1Z9RFU) - Great counterargument to perceived "gladiator culture" of stereotypical male-dominated technology workplace. You don't have to be an asshole to be a successful developer.
+1. [The Power of Vulnerability](https://www.amazon.com/Power-Vulnerability-Teachings-Authenticity-Connection/dp/B00D1Z9RFU) - Great counterargument to the "gladiator culture" of the stereotypical male-dominated technology workplace. You don't have to be an asshole to be a successful developer. 😊
 1. [Self Compassion](https://www.amazon.com/Self-Compassion-Proven-Power-Being-Yourself/dp/0061733520) - Are you sensing a theme here? Yes, the software industry is filled with a bunch of Type A, overachievers who set high expectations on themselves and struggle with Imposter Syndrome. However, the pressure people put on themselves as a result can become counterproductive and lead to burnout. If this sounds like you, read this book.
 
 ### Productivity
@@ -40,7 +42,7 @@ I'm putting personal development books first, because developers tend to priorit
 
 1. [Effective Java](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683) - Must read for any Java developer, however its information is only current to Java 1.5, so doesn't include new Java features.
 1. [Java 8 in Action](https://www.amazon.com/Java-Action-Lambdas-functional-style-programming/dp/1617291994) - Covers new features in Java 8.
-1. [Java Concurrency in Practice](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601) - Great book for getting a deep understanding of just how hard concurrent programming is. I think the best reason to read this book is as a means of steering you away from quickly jumping to writing your own concurrent, shared-memory (buggy) solutions to problems. Use a framework, or better yet, a functional programming model! :-)
+1. [Java Concurrency in Practice](https://www.amazon.com/Java-Concurrency-Practice-Brian-Goetz/dp/0321349601) - Great book for getting a deep understanding of just how hard concurrent programming is. I think the best reason to read this book is as a means of steering you away from quickly jumping to writing your own concurrent, shared-memory (buggy) solutions to problems. Use a framework! 😊
 
 ### Architecture/Design
 
