@@ -4,7 +4,7 @@ title:  "Twitch Livestream on Serverless Applications"
 tags: ['AWS','serverless','serverless-applications']
 ---
 
-Last week I did my first [Twitch livestream](https://www.twitch.tv/videos/239114858) for AWS to get the word out about serverless applications. I had a lot of fun getting to share why I'm so excited about serverless applications, and why I think with the introduction of the new [AWS Serverless Application Repository](https://aws.amazon.com/serverless/serverlessrepo/
+Last week I did my first [Twitch livestream](https://www.youtube.com/watch?v=85CHEaIDBag&t=13s) for AWS to get the word out about serverless applications. I had a lot of fun getting to share why I'm so excited about serverless applications, and why I think with the introduction of the new [AWS Serverless Application Repository](https://aws.amazon.com/serverless/serverlessrepo/
 ), serverless applications will become an important evolution in the way we write software. This blog entry is a summary of what was covered in the livestream to help spread the word.
 
 But first... Full Disclosure: I am the tech lead of the Serverless Application Repository, but I solemnly swear marketing did not put me up to writing this. All opinions are my own and do not represent the opinions of Amazon, its partners or subsidiaries, blah blah blah, you get what I'm saying. Ok let's get to it!
