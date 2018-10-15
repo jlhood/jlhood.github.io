@@ -14,7 +14,7 @@ What I wanted to cover today is a common developer question I get: How do you en
 
 At this point, most teams/companies are on board with writing unit tests. It's relatively easy to enforce a rule on your team that all functional changes must include unit test changes in the same commit/PR. While code coverage is not a perfect metric, it is a decent measurable indicator that this policy is being enforced.
 
-However, integration tests are another story. The key problem is you usually can't test a service or website until you've built enough of it to process an end-to-end request. If you don't think carefully about how you're going to structure the delivery of the features of your product, you can end up saving all integration tests until the very end of the project where it's common for them to get deprioritized due to deadlines.
+However, unit tests alone [are](https://twitter.com/thepracticaldev/status/845638950517706752) [just](https://twitter.com/thepracticaldev/status/892788721350836225) [not](https://twitter.com/thepracticaldev/status/852508104914874369) [enough](https://twitter.com/thepracticaldev/status/687672086152753152). Ensuring integration tests are written can be tricky though. The key problem is you usually can't test a service or website until you've built enough of it to process an end-to-end request. If you don't think carefully about how you're going to structure the delivery of the features of your product, you can end up saving all integration tests until the very end of the project where it's common for them to get deprioritized due to deadlines.
 
 I wanted to share a solution to this problem that I've tried on multiple teams and have found to be extremely effective in solving this problem: Behavior-Driven Development (BDD).
 
